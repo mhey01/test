@@ -1,9 +1,10 @@
  ---
  ---
 
+
+@import "{{ site.theme }}";
+
 *{
   margin:0;
   padding:0;
 }
-
-@import "{{ site.theme }}";
