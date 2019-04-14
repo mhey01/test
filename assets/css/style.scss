@@ -4,34 +4,5 @@
 
 @import "{{ site.theme }}";
 
-*{
-  margin:0;
-  padding:0;
-}
 
-#main-content h1 {
-
-margin: 0px 0px 0px 0px; 
-
-padding: 0px 0px 0px 0px;}
-
-#main-content h2 {
-
-margin: 0px 0px 0px 0px; 
-
-padding: 0px 0px 0px 0px;}
-
-#main-content p {
-
-margin: 0px 0px 0px 0px; 
-
-padding: 0px 0px 0px 0px;}
-
-}
-
-.custom-wrapper {
- max-width:750px;
- margin:0 auto;
- position:relative;
- padding:0 20px
 }
